@@ -1,3 +1,3 @@
 print("Hello World!")
 
-print("Goodbye World!")
+print("This is a simple Python script.")
